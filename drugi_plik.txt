@@ -1,1 +1,2 @@
 Tekst drugiego pliku.
+To będzie widać tylko w branchu master.
